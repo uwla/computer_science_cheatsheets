@@ -43,7 +43,3 @@ You are welcome to contribute! Pull requests must meet the following criteria
 - The cheat sheet must be concise
 - The cheat sheet must be related to Computer Science
 - Any file name must adhere to Kebab case
-
-## Author
-
-André Souza Abreu
